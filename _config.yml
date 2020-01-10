@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Martin Weyssow"
-title_separator          : "-"
+title_separator          : 
 name                     : &name "Martin Weyssow"
 description              : &description "Research Student, Computer Science, University of Montreal. NLP and code comprehension."
 url                      : https://mweyssow.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -309,3 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+github: [metadata]
