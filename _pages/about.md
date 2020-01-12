@@ -20,7 +20,6 @@ Education
 ======
 * **University of Namur**, Namur, Belgium
   * BSc. in Computer Science, 2015 - 2018
-  * graduated with honours
 * **University of Namur**, Namur, Belgium
   * MSc. in Computer Science with specialization in data science, 2018 - 2020 (current)
   * **Advisors**: Prof. [Benoît Frénay](https://bfrenay.wordpress.com/) and Prof. [Benoît Vanderose](https://directory.unamur.be/staff/bvdose)
