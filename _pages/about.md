@@ -13,7 +13,7 @@ My current work is about the application of machine learning and natural languag
 
 Before joining University of Montreal as an exchange student, I completed a bachelor's degree at [University of Namur](https://www.unamur.be/) (_Belgium_). I am currently completing my master's degree in computer science (_spec. data science_) under the supervision of [Houari Sahraoui](http://www.iro.umontreal.ca/~sahraouh/), [Benoît Frénay](https://bfrenay.wordpress.com/) and [Benoît Vanderose](https://directory.unamur.be/staff/bvdose). 
 
-My main research interests include unsupervised machine learning, data analysis, natural language processing, neural language models and word embeddings. I am open minded and I like to collaborate about any topic in software engineering or interdisciplinary topics. 
+My main research interests include unsupervised machine learning, data analysis, natural language processing, neural language models, word embeddings, software analysis and program comprehension. I am open minded and I like to collaborate about any topic in software engineering or interdisciplinary topics. 
 
 
 Education
