@@ -33,3 +33,5 @@ Experience
 * **Fall 2019** and **Winter 2020** : Research Scientist
   * University of Montreal
   * **Advisor**: Professor [Houari Sahraoui](http://www.iro.umontreal.ca/~sahraouh/)
+* **Data & Models workshop 2020** : Participant
+  * http://www.bellairs2020.ece.mcgill.ca/index.htm
