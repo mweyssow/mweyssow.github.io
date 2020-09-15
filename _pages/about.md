@@ -8,30 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/accueil/) of the [University of Montreal](https://www.umontreal.ca/).
-My current work is about the application of machine learning and natural language processing in software engineering. I am particularly interested in the relation between artificial and natural languages and how techniques traditionally used in natural language processing can be used in code and program comprehension. 
+I am a PhD Student at the [Department of Computer Science and Operations Research](https://diro.umontreal.ca/accueil/) of the [University of Montreal](https://www.umontreal.ca/) and at the [University of Namur](https://wwww.unamur.be/).
+My current work is about the application of deep learning and natural language processing in software engineering. I am particularly interested in the development of recommender systems that enhance a developer's user experience during programming.
 
-Before joining University of Montreal as an exchange student, I completed a bachelor's degree at [University of Namur](https://www.unamur.be/) (_Belgium_). I am currently completing my master's degree in computer science (_spec. data science_) under the supervision of [Houari Sahraoui](http://www.iro.umontreal.ca/~sahraouh/), [Benoît Frénay](https://bfrenay.wordpress.com/) and [Benoît Vanderose](https://directory.unamur.be/staff/bvdose). 
+Before joining the University of Montreal, I was a master's student at the [University of Namur](https://www.unamur.be/) in computer science (_spec. data science_) under the supervision of [Benoît Frénay](https://bfrenay.wordpress.com/) and [Benoît Vanderose](https://directory.unamur.be/staff/bvdose).
+During my master I made a one-year research internship at the University of Montreal with [Houari Sahraoui](http://www.iro.umontreal.ca/~sahraouh/) as advisor. 
 
-My main research interests include unsupervised machine learning, data analysis, natural language processing, neural language models, word embeddings, software analysis and program comprehension. I am open minded and I like to collaborate about any topic in software engineering or interdisciplinary topics. 
+My main research interests include natural language processing, deep learning, software engineering, neural language models, information retrieval and recommender systems. I am open minded and I like to collaborate about any topic in software engineering or interdisciplinary topics. 
 
-
-Education
-======
-* **University of Namur**, Namur, Belgium
-  * BSc. in Computer Science, 2015 - 2018
-* **University of Namur**, Namur, Belgium
-  * MSc. in Computer Science with specialization in data science, 2018 - 2020 (current)
-  * **Advisors**: Prof. [Benoît Frénay](https://bfrenay.wordpress.com/) and Prof. [Benoît Vanderose](https://directory.unamur.be/staff/bvdose)
-* **University of Montreal**
-  * Exchange student, MSc. Computer Science with thesis, 2019 - 2020 (current)
-  * **Advisor**: Professor [Houari Sahraoui](http://www.iro.umontreal.ca/~sahraouh/)
-  * **Area of Study**: Machine Learning in Software Engineering
-
-Experience
-======
-* **Fall 2019** and **Winter 2020** : Research Scientist
-  * University of Montreal
-  * **Advisor**: Professor [Houari Sahraoui](http://www.iro.umontreal.ca/~sahraouh/)
-* **Data & Models workshop 2020** : Participant
-  * http://www.bellairs2020.ece.mcgill.ca/index.htm
