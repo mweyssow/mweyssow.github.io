@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Martin Weyssow"
 title_separator          : 
 name                     : &name "Martin Weyssow"
-description              : &description "Research Student, Computer Science, University of Montreal. NLP and code comprehension."
+description              : &description "PhD Student, Computer Science, University of Montreal. Machine Learning and NLP for software engineering."
 url                      : https://mweyssow.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mweyssow/mweyssow.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Martin Weyssow"
   avatar           : "profile.png"
-  bio              : "Research scientist, Computer Science, University of Montreal. "
+  bio              : "PhD Student, Software Engineering, University of Montreal. "
   location         : "Montreal, Québec"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=VOViiCUAAAAJ&hl=fr"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "MWeyssow"
   vine             :
   weibo            :
   xing             :
